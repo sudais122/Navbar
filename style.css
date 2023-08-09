@@ -1,0 +1,14 @@
+.navbar{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.item ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.item ul li{
+    list-style: none;
+}
